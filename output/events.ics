@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://www.example.com/calendarapplication/
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+DTSTART:20171017T191500
+DTEND:20171017T204500
+UID:20171017T19150020171017T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Podiumsdiskussion: Wem gehören meine Daten?
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/index.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171024T191500
+DTEND:20171024T204500
+UID:20171024T19150020171024T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Big Data, Artificial Intelligence, …: Is this time different?
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/schmetz.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T191500
+DTEND:20171107T204500
+UID:20171107T19150020171107T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Datenreichtum, Datensparsamkeit, Datensouveränität? Leitbilder für den Datenschutz der Big Data
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/schaar.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171114T191500
+DTEND:20171114T204500
+UID:20171114T19150020171114T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Datenschutz in Surveys
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/kreuter.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171121T191500
+DTEND:20171121T204500
+UID:20171121T19150020171121T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Fake News, Hass und Hetze – Die große Propagandaschlacht im Netz
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/huesmann.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T191500
+DTEND:20171128T204500
+UID:20171128T19150020171128T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Bauch oder Zahl? – Entscheidungsfindung in einer datengetriebenen Welt
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/wernicke.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171205T191500
+DTEND:20171205T204500
+UID:20171205T19150020171205T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Building the Data Economy – Rechtliche Rahmenbedingungen und Herausforderungen der Digitalen Transformation
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/duisberg.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171212T191500
+DTEND:20171212T204500
+UID:20171212T19150020171212T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Evidenzbasierte Medizin – Inspiration für Neues oder Innovationsbremse?
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/mansmann.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171219T191500
+DTEND:20171219T204500
+UID:20171219T19150020171219T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Big Data ist tot, es lebe Big Data: vom Marketingbegriff zum Befähiger effizienter Unternehmensprozesse und neuer Geschäftsmodelle
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/wies_demtroeder.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180109T191500
+DTEND:20180109T204500
+UID:20180109T19150020180109T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Big Data: Seismische Tomographie des Erdinneren
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/igel.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180116T191500
+DTEND:20180116T204500
+UID:20180116T19150020180116T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Digitalisierte Erbsenzähler: Implikationen von Digitalisierung und Big Data für Rechnungswesen und Wirtschaftsprüfung
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/sellhorn.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180123T191500
+DTEND:20180123T204500
+UID:20180123T19150020180123T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Was bedeutet die Nutzung von "Big Data" in Unternehmen für die Konsumenten?
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/winter.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180130T191500
+DTEND:20180130T204500
+UID:20180130T19150020180130T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Data Ethics und Datenschutzrecht – Was bringt die neue Europäische Datenschutzgrundverordnung?
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/spindler.html
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180206T191500
+DTEND:20180206T204500
+UID:20180206T19150020180206T204500
+LOCATION:Geschwister-Scholl-Platz 1, 81669 München
+SUMMARY:Ethische Fragen in der Digitalisierung am Beispiel des Autonomen Fahrens
+DESCRIPTION:Hörsaal B 101 https://www.uni-muenchen.de/studium/studienangebot/lehrangebote/ringvorlesung/rv_17_18/broy.html
+END:VEVENT
+END:VCALENDAR

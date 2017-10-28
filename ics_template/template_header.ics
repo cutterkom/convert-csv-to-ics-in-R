@@ -1,0 +1,5 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://www.example.com/calendarapplication/
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
